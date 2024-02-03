@@ -1,0 +1,6 @@
+sqlalchemy
+requests
+FastAPI
+psycopg2
+httpx
+pytest
